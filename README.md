@@ -20,6 +20,13 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+<h3> 🖥 &nbsp;Projects worked on</h3>
+* [Weather API React] (https://react-weather-api-practice.netlify.app)
+  <br/>
+* [Chat Application] (https://chateng-application-react.netlify.app)
+  <br/>
+* [Task Tracker] (https://track-tasks-practice.netlify.app)
 
 <!---
 TraineThought/TraineThought is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
