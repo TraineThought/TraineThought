@@ -1,10 +1,6 @@
 <h1> 👋 Hi, I'm Kane Adams </h1>
 
-<p align="center">
-  </p>
- <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+Computer+Science+Enginner" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%23301CF7&duration=4000&lines=Welcome+to+my+Github+Profile!;I'm+a+Web+Developer;Computer+Information+Systems)](https://git.io/typing-svg)
 
 <h2>About Me</h2>
 <p align="center">Self-taught, prolific developer with 2+ years of experience in designing websites, debugging, and testing. Proven ability in optimizing web functionality that improve data retrieval and workflow efficiencies. Innovative, resourceful, and flexible. Able to adapt to growing environments and sustain a positive attitude and strong work ethic. </p>
