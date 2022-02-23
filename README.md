@@ -1,7 +1,9 @@
 <h1> 👋 Hi, I'm Kane Adams </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;CSS%20|%20JS%20|%20NodeJs%20Enthusiast;React%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  </p>
+ <p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+Computer+Science+Enginner" /></a>
 </p>
 
 <h2>About Me</h2>
